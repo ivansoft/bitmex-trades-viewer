@@ -1,2 +1,3 @@
-# bitmex-trades-viewer
+# BitMEX Trades Viewer
+
 Visualize Trades
